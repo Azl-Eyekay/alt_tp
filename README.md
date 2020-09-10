@@ -11,7 +11,7 @@ Ektod (editted dirt textures)
 
 What I added:
 =============
-Slightly edited husk skin, mcl_core_grass_block* which are based on default_grass*, acacia trees and planks, oak trees and planks,double grass, buckets, ingots, crosshairs, cobblestone*, emerald, emerald ore(based on default_stone)
+See CHANGELOG
 
 # License: MIT (see LICENSE)
 
