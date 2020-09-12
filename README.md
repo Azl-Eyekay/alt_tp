@@ -20,4 +20,5 @@ See CHANGELOG
 # License
 
 Everything except files in the 'mtg4mcl2' folder: MIT
+
 Files in the 'mtg4mcl2' folder: CC-BY-SA 3.0
