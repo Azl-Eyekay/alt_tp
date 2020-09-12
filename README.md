@@ -13,6 +13,7 @@ What I added:
 =============
 See CHANGELOG
 
-# License: MIT (see LICENSE)
+# License
 
-Copyright (c) 2020 eyekay
+Everything except files in the 'mtg4mcl2' folder: MIT
+Files in the 'mtg4mcl2' folder: CC-BY-SA 3.0
