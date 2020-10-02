@@ -1,6 +1,6 @@
 
-Files outside 'mtg4mcl2' folder
-===============================
+Files outside 'mtg4mcl2' folder, unless noted otherwise
+=======================================================
 MIT License
 
 Copyright (c) 2020 eyekay
@@ -25,5 +25,10 @@ SOFTWARE.
 
 Files in 'mtg4mcl2' folder
 ============================
-CC-BY-SA 3.0
+CC BY-SA 3.0
 https://creativecommons.org/licenses/by-sa/3.0/
+
+mcl_core_log_birch.png
+======================
+Originally default_aspen_tree.png from Minetest Game
+CC BY-SA 3.0
