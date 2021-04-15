@@ -19,6 +19,6 @@ See CHANGELOG
 
 # License
 
-Everything except files in the 'mtg4mcl2' folder: MIT + CC BY-SA 3.0 + CC BY-SA 4.0
+Everything except files in the 'mtg4mcl2' folder: MIT
 
-Files in the 'mtg4mcl2' folder: CC BY-SA 3.0
+Files in the 'mtg4mcl2' folder: CC-BY-SA 3.0
