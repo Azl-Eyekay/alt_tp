@@ -1,5 +1,12 @@
 # alt_tp
+
+[![ContentDB](https://content.minetest.net/packages/eyekay/alt_tp/shields/title/)](https://content.minetest.net/packages/eyekay/alt_tp/)
+
+[![ContentDB](https://content.minetest.net/packages/eyekay/alt_tp/shields/downloads/)](https://content.minetest.net/packages/eyekay/alt_tp/)
+
 An alternate texture pack for MineClone 2, based on the Unofficial Official Textures.
+
+![screenshot](https://content.minetest.net/uploads/8775471f82.png "screenshot")
 
 Special thanks to 
 ===========
